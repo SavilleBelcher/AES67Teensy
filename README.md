@@ -3,9 +3,9 @@ An AES67 Audio-over-IP implemented on the Teensy 4.1 using I2S audio input/outpu
 48k 16bit 1ms packet time. 
 
 Big thanks to the work of the following libraries. 
-Modified version of https://github.com/ssilverman/QNEthernet/tree/ieee1588-2.
-Modified version of https://github.com/IMS-AS-LUH/t41-ptp. 
-optional https://github.com/alex6679/teensy-4-usbAudio.
+- Modified version of https://github.com/ssilverman/QNEthernet/tree/ieee1588-2.
+- Modified version of https://github.com/IMS-AS-LUH/t41-ptp. 
+ -optional https://github.com/alex6679/teensy-4-usbAudio.
 
 ## Features
 - PTP timing Master or Slave 
