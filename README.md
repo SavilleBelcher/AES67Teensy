@@ -21,7 +21,7 @@ Big thanks to the work of the following libraries.
 ## 
 - if usbAudio used select 48KHz from the tool dropdown settings. 
 - if usdAudio not used. Need to change AUDIO_SAMPLE_RATE_EXACT in AudioStream.h to 48000.0f
-  -location example C:\Users\****\AppData\Local\Arduino15\packages\teensy\hardware\avr\1.59.0\cores\teensy4\AudioStream.h
+  - location example C:\Users\****\AppData\Local\Arduino15\packages\teensy\hardware\avr\1.59.0\cores\teensy4\AudioStream.h
 - tested up to 4 channels Tx and Rx 
 - tested with: 
   - Magewell AES67 Pro convert master and slave 
