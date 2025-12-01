@@ -11,6 +11,7 @@ Big thanks to the work of the following libraries.
 - PTP timing Master or Slave 
 - 4x4 4-channel RTP audio streaming
 - Slave mode with Real-time Audio PLL sync to PTP clock correction
+- RTP/SDP discovery for Tx Stream 
 
 
 ## Hardware 
